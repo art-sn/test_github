@@ -5,6 +5,7 @@ import {Test} from "./Test";
 import {useInput} from "hooks/useInput";
 
 function App() {
+    console.log('master')
     console.log('test1')
     const [count, setCount] = useState(0)
     console.log(useInput)
