@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fde22f0c-71c3-4f4f-9015-3497f2efeea7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Test.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hooks/useInput/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hooks/useInput/useInput.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tools/DarkMode/DarkMode.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tools/InputSelect/InputSelect.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
-    </list>
+    <list default="true" id="fde22f0c-71c3-4f4f-9015-3497f2efeea7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

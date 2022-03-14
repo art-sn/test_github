@@ -5,10 +5,8 @@ import {Test} from "./Test";
 import {useInput} from "hooks/useInput";
 
 function App() {
-    console.log('master')
-    console.log('test1')
+    console.log('app1')
     const [count, setCount] = useState(0)
-    console.log(useInput)
     return (
         <DarkThemeProvider>
             <Test/>
